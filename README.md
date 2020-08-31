@@ -1,2 +1,1 @@
-# cmu_15213_lab
-cmu_15213_lab
+yzhshiki's cmu 15-213 labs
